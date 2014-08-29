@@ -1,5 +1,5 @@
 enhance-page-slidigin-tab-strip
 ===============================
 
-The title color changes wiht the indicator
-file:///root/Desktop/sample.png
+The title color changes with the indicator
+
